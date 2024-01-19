@@ -4,7 +4,7 @@ Stay informed about the weather with this dynamic Weather App created using HTML
 
 # Features:
 
-Accurate Weather Data:- Get up-to-date weather information, including temperature, humidity, wind speed, and more, for your chosen location. The app uses a reliable weather API to ensure accuracy.
+<u>Accurate Weather Data<u>:- Get up-to-date weather information, including temperature, humidity, wind speed, and more, for your chosen location. The app uses a reliable weather API to ensure accuracy.
 
 User-Friendly Interface:- The clean and intuitive design makes it easy for users to check the weather at a glance. Input your desired location, and the app delivers detailed weather insights in a visually appealing format.
 
